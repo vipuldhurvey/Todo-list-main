@@ -1,6 +1,6 @@
 # Todo list app
 
-Use the Application here - https://utkarshsingh341.github.io/todolist/
+Use the Application here - https://vipuldhurvey.github.io/Todo-list-main/
 
 Video Demonstration of the project - https://youtu.be/IZzgaC3_fSE
 
